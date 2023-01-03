@@ -44,11 +44,9 @@ function App() {
           </div>
 
           <C.Text width='130px' size='18px'>
-            Bem-vindo ao meu portfólio, sou programador Front-End. <br />
-            Iniciei na programação em março de 2020 por meio da faculdade Estácio de Sá,
-            em um curso tecnológico FullStack de Análise e Desenvolvimento de Sistemas. 
-            No momento estou focando no desenvolvimento Front-end, estudando React,
-            Angular, aprimorando minhas habilidades com javaScript e começando os estudos em typeScript.
+            Bem-vindo ao meu portfólio. <br /> 
+            Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá. Atualmente estou estudando desenvolvimento Front-end com Javascript, React e Angular, além disso estou aprimorando minhas habilidades com TypeScript.<br />
+            Futuramente quero me tornar um desenvolvedor Fullstak
           </C.Text>
           <C.Div>
             <C.ButtonCv href={Pdf} download={Pdf} type='application/pdf'>
