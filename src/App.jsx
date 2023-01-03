@@ -45,8 +45,8 @@ function App() {
 
           <C.Text width='130px' size='18px'>
             Bem-vindo ao meu portfólio. <br /> 
-            Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá. Atualmente estou estudando desenvolvimento Front-end com Javascript, React e Angular, além disso estou aprimorando minhas habilidades com TypeScript.<br />
-            Futuramente quero me tornar um desenvolvedor Fullstak
+            Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá. Atualmente estou estudando desenvolvimento Front-end com Javascript, React e Angular, além disso estou aprimorando minhas habilidades com TypeScript. <br />
+            Futuramente quero me tornar um desenvolvedor Fullstak.
           </C.Text>
           <C.Div>
             <C.ButtonCv href={Pdf} download={Pdf} type='application/pdf'>
