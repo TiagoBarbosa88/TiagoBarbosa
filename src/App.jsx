@@ -44,9 +44,9 @@ function App() {
           </div>
 
           <C.Text width='130px' size='18px'>
-            Bem-vindo ao meu portfólio. <br /> 
-            Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá. Atualmente estou estudando desenvolvimento Front-end com Javascript, React e Angular, além disso estou aprimorando minhas habilidades com TypeScript. <br />
-            Futuramente quero me tornar um desenvolvedor Fullstak.
+            De São Paulo Capital, tenho 34 anos e estou em transição de carreira, sou funcionário público há 14 anos. Em breve formado em Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá. Atualmente estou estudando desenvolvimento Front-end com Javascript, React e Angular, também aprimorando minhas habilidades com TypeScript. <br />
+            Futuramente quero me tornar um desenvolvedor Fullstak.<br />
+            Sou apaixonado por tecnologia e estou em busca de uma oportunidade para ingressar nesta área.
           </C.Text>
           <C.Div>
             <C.ButtonCv href={Pdf} download={Pdf} type='application/pdf'>
