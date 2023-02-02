@@ -17,6 +17,7 @@ import TelaInsta from '../../assets/tela_instagran.png'
 import Aniversario from '../../assets/quiz1.png'
 import Netflix from '../../assets/tela_netflix.png'
 import ControleFinanceiro from '../../assets/Cf.png'
+import Todo_Angular from '../../assets/Todo_angular.png'
 
 const InfoProjects = [
   {
@@ -24,6 +25,14 @@ const InfoProjects = [
     image: Netflix,
     urlCode: 'https://github.com/TiagoBarbosa88/Projeto_DIO',
     urlSite: 'https://projeto-dio.vercel.app/',
+  },
+
+  {
+    name: 'To do List em Angular',
+    image: Todo_Angular ,
+    urlCode: 'https://github.com/TiagoBarbosa88/Todo_Angular',
+    urlSite: 'https://todo-angular-ecru.vercel.app/',
+
   },
   {
     name: 'Lista de Tarefas',
