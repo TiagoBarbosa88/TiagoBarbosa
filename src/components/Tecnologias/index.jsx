@@ -50,14 +50,15 @@ const ShowTecnologias = () => {
         </div>
         <div data-aos="fade-up"  className="positionDiv2">
           <C.BoxSkills>
+            <C.IconAngular />
+            <C.P>ANGULAR</C.P>
+          </C.BoxSkills>
+          
+          <C.BoxSkills>
             <C.IconReact />
             <C.P>REACT</C.P>
           </C.BoxSkills>
 
-          <C.BoxSkills>
-            <C.IconAngular />
-            <C.P>ANGULAR</C.P>
-          </C.BoxSkills>
 
           <C.BoxSkills>
             <C.IconNode />

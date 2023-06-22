@@ -18,8 +18,22 @@ import Aniversario from '../../assets/quiz1.png'
 import Netflix from '../../assets/tela_netflix.png'
 import ControleFinanceiro from '../../assets/Cf.png'
 import Todo_Angular from '../../assets/Todo_angular.png'
+import Ecomerce_angular from '../../assets/Ecomerce_angular.png'
+import Blog_angular from '../../assets/Blog_angular.png'
 
 const InfoProjects = [
+  {
+    name: 'Ecomerce em Angular',
+    image: Ecomerce_angular,
+    urlCode: 'https://github.com/TiagoBarbosa88/angular-store',
+    urlSite: 'https://angular-store-six.vercel.app/products',
+  },
+  {
+    name: 'Blog em Angular',
+    image: Blog_angular,
+    urlCode: 'https://github.com/TiagoBarbosa88/Api_blog',
+    urlSite: 'https://api-blog-seven.vercel.app/',
+  },
   {
     name: 'Clone da página do Netflix',
     image: Netflix,
