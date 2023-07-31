@@ -20,6 +20,7 @@ import ControleFinanceiro from '../../assets/Cf.png'
 import Todo_Angular from '../../assets/Todo_angular.png'
 import Ecomerce_angular from '../../assets/Ecomerce_angular.png'
 import Blog_angular from '../../assets/Blog_angular.png'
+import Santander_clone from '../../assets/santander_clone.png'
 
 const InfoProjects = [
   {
@@ -27,6 +28,12 @@ const InfoProjects = [
     image: Ecomerce_angular,
     urlCode: 'https://github.com/TiagoBarbosa88/angular-store',
     urlSite: 'https://angular-store-six.vercel.app/products',
+  },
+   {
+    name: 'Santander Client Angular',
+    image: Santander_clone,
+    urlCode: 'https://github.com/TiagoBarbosa88/Santander_devWeek/tree/main',
+    urlSite: 'https://santander-dev-week.vercel.app/',
   },
   {
     name: 'Blog em Angular',
